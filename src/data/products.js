@@ -1,0 +1,130 @@
+export const products = [
+  {
+    id: 1,
+    slug: 'nasi-goreng-spesial',
+    category: 'main',
+    price: 35000,
+    image: 'https://images.unsplash.com/photo-1512058564366-18510be2db19?w=400&h=300&fit=crop',
+    name: { id: 'Nasi Goreng Spesial', en: 'Special Fried Rice' },
+    description: {
+      id: 'Nasi goreng dengan bumbu rahasia keluarga, telur mata sapi, ayam suwir, dan kerupuk.',
+      en: 'Fried rice with our secret family spices, sunny-side egg, shredded chicken, and crackers.',
+    },
+  },
+  {
+    id: 2,
+    slug: 'rendang-sapi',
+    category: 'main',
+    price: 55000,
+    image: 'https://images.unsplash.com/photo-1606491956689-2ea866880049?w=400&h=300&fit=crop',
+    name: { id: 'Rendang Sapi', en: 'Beef Rendang' },
+    description: {
+      id: 'Rendang sapi empuk dengan bumbu rempah khas Minang yang dimasak berjam-jam.',
+      en: 'Tender beef rendang with authentic Minang spices slow-cooked for hours.',
+    },
+  },
+  {
+    id: 3,
+    slug: 'soto-ayam',
+    category: 'main',
+    price: 30000,
+    image: 'https://images.unsplash.com/photo-1547592180-85f173990554?w=400&h=300&fit=crop',
+    name: { id: 'Soto Ayam', en: 'Chicken Soto' },
+    description: {
+      id: 'Soto ayam kuning dengan kuah gurih, suwiran ayam, dan pelengkap lengkap.',
+      en: 'Yellow chicken soup with savory broth, shredded chicken, and complete garnishes.',
+    },
+  },
+  {
+    id: 4,
+    slug: 'gado-gado',
+    category: 'main',
+    price: 28000,
+    image: 'https://images.unsplash.com/photo-1512058564366-18510be2db19?w=400&h=300&fit=crop',
+    name: { id: 'Gado-Gado', en: 'Gado-Gado Salad' },
+    description: {
+      id: 'Sayuran segar dengan bumbu kacang khas dan kerupuk emping.',
+      en: 'Fresh vegetables with signature peanut sauce and emping crackers.',
+    },
+  },
+  {
+    id: 5,
+    slug: 'pisang-goreng-keju',
+    category: 'snack',
+    price: 15000,
+    image: 'https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=400&h=300&fit=crop',
+    name: { id: 'Pisang Goreng Keju', en: 'Cheese Fried Banana' },
+    description: {
+      id: 'Pisang goreng renyah dengan taburan keju dan saus cokelat.',
+      en: 'Crispy fried banana topped with cheese and chocolate sauce.',
+    },
+  },
+  {
+    id: 6,
+    slug: 'tahu-crispy',
+    category: 'snack',
+    price: 12000,
+    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop',
+    name: { id: 'Tahu Crispy', en: 'Crispy Tofu' },
+    description: {
+      id: 'Tahu goreng renyah dengan sambal kecap pedas manis.',
+      en: 'Crispy fried tofu with sweet and spicy soy chili sauce.',
+    },
+  },
+  {
+    id: 7,
+    slug: 'es-teh-tarik',
+    category: 'beverage',
+    price: 12000,
+    image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=400&h=300&fit=crop',
+    name: { id: 'Es Teh Tarik', en: 'Iced Pulled Tea' },
+    description: {
+      id: 'Teh tarik dingin dengan susu kental manis yang creamy.',
+      en: 'Iced pulled tea with creamy condensed milk.',
+    },
+  },
+  {
+    id: 8,
+    slug: 'jus-alpukat',
+    category: 'beverage',
+    price: 18000,
+    image: 'https://images.unsplash.com/photo-1623065422902-30a2d299bbe4?w=400&h=300&fit=crop',
+    name: { id: 'Jus Alpukat', en: 'Avocado Juice' },
+    description: {
+      id: 'Jus alpukat segar dengan susu cokelat dan es serut.',
+      en: 'Fresh avocado juice with chocolate milk and shaved ice.',
+    },
+  },
+  {
+    id: 9,
+    slug: 'klepon',
+    category: 'dessert',
+    price: 10000,
+    image: 'https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400&h=300&fit=crop',
+    name: { id: 'Klepon', en: 'Klepon Rice Cake' },
+    description: {
+      id: 'Bola-bola ketan hijau berisi gula merah dengan taburan kelapa parut.',
+      en: 'Green glutinous rice balls filled with palm sugar, coated in grated coconut.',
+    },
+  },
+  {
+    id: 10,
+    slug: 'es-cendol',
+    category: 'dessert',
+    price: 15000,
+    image: 'https://images.unsplash.com/photo-1551024506-0bccd828d307?w=400&h=300&fit=crop',
+    name: { id: 'Es Cendol', en: 'Iced Cendol' },
+    description: {
+      id: 'Cendol segar dengan santan, gula merah cair, dan es serut.',
+      en: 'Fresh cendol with coconut milk, palm sugar syrup, and shaved ice.',
+    },
+  },
+];
+
+export const categories = [
+  { id: 'all', label: { id: 'Semua', en: 'All' } },
+  { id: 'main', label: { id: 'Makanan Utama', en: 'Main Course' } },
+  { id: 'snack', label: { id: 'Camilan', en: 'Snacks' } },
+  { id: 'beverage', label: { id: 'Minuman', en: 'Beverages' } },
+  { id: 'dessert', label: { id: 'Pencuci Mulut', en: 'Desserts' } },
+];

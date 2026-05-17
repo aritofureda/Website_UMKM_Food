@@ -1,0 +1,19 @@
+{
+  "title": "Contact Us",
+  "subtitle": "We'd love to hear from you",
+  "form": {
+    "name": "Full Name",
+    "email": "Email Address",
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Send Message",
+    "success": "Message sent successfully! We'll get back to you soon."
+  },
+  "info": {
+    "address_label": "Address",
+    "phone_label": "Phone",
+    "email_label": "Email",
+    "hours_label": "Operating Hours",
+    "hours_value": "Monday - Saturday, 08:00 - 21:00"
+  }
+}

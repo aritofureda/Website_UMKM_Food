@@ -1,0 +1,12 @@
+{
+  "title": "Produk Kami",
+  "subtitle": "Jelajahi berbagai pilihan menu autentik kami",
+  "categories": {
+    "all": "Semua",
+    "main": "Makanan Utama",
+    "snack": "Camilan",
+    "beverage": "Minuman",
+    "dessert": "Pencuci Mulut"
+  },
+  "price_prefix": "Rp"
+}

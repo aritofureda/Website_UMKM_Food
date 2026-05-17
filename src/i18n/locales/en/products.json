@@ -1,0 +1,12 @@
+{
+  "title": "Our Products",
+  "subtitle": "Explore our authentic menu selections",
+  "categories": {
+    "all": "All",
+    "main": "Main Course",
+    "snack": "Snacks",
+    "beverage": "Beverages",
+    "dessert": "Desserts"
+  },
+  "price_prefix": "Rp"
+}

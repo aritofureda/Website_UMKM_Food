@@ -1,0 +1,25 @@
+{
+  "title": "Tentang Kami",
+  "story": {
+    "title": "Cerita Kami",
+    "p1": "Dapur Nusantara lahir dari kecintaan mendalam terhadap kekayaan kuliner Indonesia. Berawal dari dapur kecil di rumah nenek kami pada tahun 2015, kami memulai perjalanan untuk membawa cita rasa autentik Nusantara ke lebih banyak orang.",
+    "p2": "Setiap hidangan yang kami sajikan dibuat dengan penuh cinta, menggunakan resep turun-temurun yang telah disempurnakan selama bertahun-tahun. Kami percaya bahwa makanan bukan sekadar nutrisi, tetapi juga cerita dan kenangan."
+  },
+  "mission": {
+    "title": "Misi Kami",
+    "text": "Melestarikan dan memperkenalkan kekayaan kuliner Nusantara kepada generasi muda dan dunia internasional melalui sajian berkualitas tinggi."
+  },
+  "vision": {
+    "title": "Visi Kami",
+    "text": "Menjadi UMKM kuliner terdepan yang membawa cita rasa tradisional Indonesia ke panggung dunia dengan tetap menjaga keaslian dan kualitas."
+  },
+  "values": {
+    "title": "Nilai-Nilai Kami",
+    "quality": "Kualitas Terbaik",
+    "quality_desc": "Bahan segar pilihan setiap hari",
+    "authentic": "Resep Autentik",
+    "authentic_desc": "Warisan turun-temurun keluarga",
+    "love": "Dibuat dengan Cinta",
+    "love_desc": "Sepenuh hati di setiap sajian"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Hubungi Kami",
+  "subtitle": "Kami senang mendengar dari Anda",
+  "form": {
+    "name": "Nama Lengkap",
+    "email": "Alamat Email",
+    "subject": "Subjek",
+    "message": "Pesan",
+    "submit": "Kirim Pesan",
+    "success": "Pesan berhasil dikirim! Kami akan segera menghubungi Anda."
+  },
+  "info": {
+    "address_label": "Alamat",
+    "phone_label": "Telepon",
+    "email_label": "Email",
+    "hours_label": "Jam Operasional",
+    "hours_value": "Senin - Sabtu, 08:00 - 21:00"
+  }
+}

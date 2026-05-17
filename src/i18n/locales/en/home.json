@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "title": "Taste of the Archipelago in Every Dish",
+    "subtitle": "We bring traditional Indonesian cuisine with carefully selected fresh ingredients and perfected family recipes passed down through generations.",
+    "cta_primary": "View Menu",
+    "cta_secondary": "About Us"
+  },
+  "featured": {
+    "title": "Favorite Menu",
+    "subtitle": "Our best dishes loved by our customers"
+  },
+  "cta_banner": {
+    "title": "Ready to Taste Our Delights?",
+    "subtitle": "Order now and experience the authentic flavors of the archipelago right at your table.",
+    "button": "Order Now"
+  }
+}

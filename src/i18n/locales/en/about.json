@@ -1,0 +1,25 @@
+{
+  "title": "About Us",
+  "story": {
+    "title": "Our Story",
+    "p1": "Dapur Nusantara was born from a deep love for the richness of Indonesian cuisine. Starting from a small kitchen in our grandmother's house in 2015, we began our journey to bring authentic archipelago flavors to more people.",
+    "p2": "Every dish we serve is made with love, using family recipes that have been perfected over the years. We believe that food is not just nutrition, but also stories and memories."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "text": "To preserve and introduce the culinary richness of the archipelago to younger generations and the international community through high-quality dishes."
+  },
+  "vision": {
+    "title": "Our Vision",
+    "text": "To become a leading culinary MSME that brings traditional Indonesian flavors to the world stage while maintaining authenticity and quality."
+  },
+  "values": {
+    "title": "Our Values",
+    "quality": "Best Quality",
+    "quality_desc": "Fresh ingredients selected daily",
+    "authentic": "Authentic Recipes",
+    "authentic_desc": "Family heritage passed down generations",
+    "love": "Made with Love",
+    "love_desc": "Wholehearted in every dish"
+  }
+}

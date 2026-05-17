@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "products": "Produk",
+    "testimonials": "Testimoni",
+    "contact": "Kontak",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "gallery": "Galeri",
+    "team": "Tim Kami"
+  },
+  "cta": {
+    "order_now": "Pesan Sekarang",
+    "learn_more": "Selengkapnya",
+    "contact_us": "Hubungi Kami",
+    "view_all": "Lihat Semua",
+    "send": "Kirim",
+    "read_more": "Baca Selengkapnya"
+  },
+  "footer": {
+    "rights": "Hak cipta dilindungi",
+    "follow_us": "Ikuti Kami",
+    "description": "Sajian kuliner autentik Indonesia dengan cita rasa tradisional dan sentuhan modern.",
+    "quick_links": "Tautan Cepat",
+    "contact_info": "Info Kontak",
+    "address": "Jl. Merdeka No. 45, Jakarta Selatan",
+    "phone": "+62 812 3456 7890",
+    "email": "info@dapurnusantara.id"
+  },
+  "language": {
+    "id": "ID",
+    "en": "EN"
+  }
+}

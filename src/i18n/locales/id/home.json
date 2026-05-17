@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "title": "Cita Rasa Nusantara di Setiap Sajian",
+    "subtitle": "Kami menghadirkan masakan tradisional Indonesia dengan bahan-bahan segar pilihan dan resep turun-temurun yang telah disempurnakan.",
+    "cta_primary": "Lihat Menu",
+    "cta_secondary": "Tentang Kami"
+  },
+  "featured": {
+    "title": "Menu Favorit",
+    "subtitle": "Sajian terbaik yang paling digemari pelanggan kami"
+  },
+  "cta_banner": {
+    "title": "Siap Menikmati Kelezatan Kami?",
+    "subtitle": "Pesan sekarang dan rasakan cita rasa autentik Nusantara langsung di meja Anda.",
+    "button": "Pesan Sekarang"
+  }
+}
